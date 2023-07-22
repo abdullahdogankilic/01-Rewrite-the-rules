@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+}
+
+.ball {
+  width: 100px;
+  height: 500px;
+  background-color: grey;
+  border-radius: 10px;
+}
